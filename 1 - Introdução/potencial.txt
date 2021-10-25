@@ -1,9 +1,0 @@
-O que pode ser feito com PHP?
-
-Basicamente, qualquer coisa que pode ser feita por algum programa CGI pode ser feita também com PHP,
-como coletar dados de um formulário, gerar páginas dinamicamente ou enviar e receber cookies.
-PHP também tem como uma das características mais importantes o suporte a um grande número de
-bancos de dados, como dBase, Interbase, mSQL, mySQL, Oracle, Sybase, PostgreSQL e vários outros. Construir uma
-página baseada em um banco de dados torna-se uma tarefa extremamente simples com PHP.
-Além disso, PHP tem suporte a outros serviços através de protocolos como IMAP, SNMP, NNTP, POP3
-e, logicamente, HTTP. Ainda é possível abrir sockets e interagir com outros protocolos.
