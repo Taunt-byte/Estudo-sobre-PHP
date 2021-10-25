@@ -20,5 +20,25 @@
     <%
         comandos
     %>
+
+
+    <!---EXEMPLOS DE COMENTARIOS-->
+
+    <? echo “teste”; #isto é um teste ?>
+    <? echo “teste”; //este teste é similar ao anterior ?>
+
+    <?
+        echo “teste”; /* Isto é um comentário com mais
+        de uma linha, mas não funciona corretamente ?>
+        */
+    ?>
+    <?
+
+        echo “teste”; /* Isto é um comentário com mais
+        de uma linha que funciona corretamente
+        */
+
+    ?>
+
 </body>
 </html>
